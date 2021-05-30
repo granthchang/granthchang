@@ -9,7 +9,7 @@
 - 📎 Links
     - Email:      mailto:granthchang03@gmail.com
     - Portfolio:  www.granthchang.com/
-    - LinkedIn:   linkedin.com/in/granthchang/
+    - LinkedIn:   www.linkedin.com/in/granthchang/
     - Itch:       www.goatpants.itch.io/
-    - Twitter:    twitter.com/goatpants_dev/
-    - Instagram:  instagram.com/goatpants2/
+    - Twitter:    www.twitter.com/goatpants_dev/
+    - Instagram:  www.instagram.com/goatpants2/
