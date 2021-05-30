@@ -7,9 +7,9 @@
 - 📫 I can be reached anytime through my email, social media, or through my website.
         
 - 📎 Links
-        Email:      granthchang03@gmail.com
-        Portfolio:  granthchang.com/
-        LinkedIn:   linkedin.com/in/granthchang/
-        Itch:       goatpants.itch.io/
-        Twitter:    twitter.com/goatpants_dev/
-        Instagram:  instagram.com/goatpants2/
+    - Email:      mailto:granthchang03@gmail.com
+    - Portfolio:  www.granthchang.com/
+    - LinkedIn:   linkedin.com/in/granthchang/
+    - Itch:       www.goatpants.itch.io/
+    - Twitter:    twitter.com/goatpants_dev/
+    - Instagram:  instagram.com/goatpants2/
